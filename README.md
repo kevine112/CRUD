@@ -1,11 +1,17 @@
 # CRUD
 Here i create a simple CRUD service that can be, 
 CREATE ( POST METHOD ) , 
+
 READ ( GET METHOD ) ,
+
 UPDATE ( PATCH METHOD ) ,
-DELETE ( DELETE METHOD,
+
+DELETE ( DELETE METHOD ),
+
 DATABASE ( mysqls ),
+
 restAPI,
+
 
 in my code i do use mysql as database and the important file you can see in ( .env.example )
 this is my first day touching express js or backend with javascript, so i hope yall understand with my structure code.
